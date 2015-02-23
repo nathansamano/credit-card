@@ -1,6 +1,6 @@
 /*
  * Nathan Samano
- * October 4, 2013 (Sophmore Year)
+ * October 4, 2013 (Sophomore Year)
  * This is the client code of CreditCard
  */
 
