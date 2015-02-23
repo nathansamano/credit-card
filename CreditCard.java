@@ -3,9 +3,8 @@ import java.util.Scanner;
 /** 
  * CreditCard class:  Have the user input a number to store as a credit card number
  * 
- * 
  * @author Nathan Samano
- * October 4, 2013
+ * October 4, 2013 (Sophmore Year)
  *
  */
 
